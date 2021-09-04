@@ -6,6 +6,7 @@
  *
  *      - Spliced together github code and TI sample code
  *      						[see repo for sample code]
+ *      - org: https://github.com/Protocentral/ProtoCentral_fdc1004_breakout
  *
  *      - Made a few small changes
  *      - Now compatible with STM
