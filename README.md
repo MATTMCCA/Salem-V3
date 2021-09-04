@@ -1,4 +1,5 @@
 
+
 # Salem Version 3
 
 Third Revision of Salem, Capacitive Proximity Sensor.
@@ -6,6 +7,8 @@ Third Revision of Salem, Capacitive Proximity Sensor.
 ---
 
 ### Salem was originally designed as a REM Pod competitor. A conscience and lack of follow-though drove me to release the project, for the betterment of *Parapsychology Research*.
+
+(Plus I didn't feel like dealing with *FCC Regulatory Compliance*....)
 
 Effective range, depending on placement can vary from 6-10 inches. This is a ballpark estimate from lab testing. I have not had time to carry out a conclusive test to gauge the effective sensing range.
 
