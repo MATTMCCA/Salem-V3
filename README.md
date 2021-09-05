@@ -43,6 +43,9 @@ In full transparency, both the hardware and firmware are included in this repo. 
 
 ### Operation Note:
 
-Air dose have a relatively stable dielectric constant, any disruption or change in *dielectrics?* will produce a change in capacitance. This could include changes in air density due to temperature, change due to organic interference, or the introduction of a gas with a different dielectric constant.
+[Further Readings A](https://www.allaboutcircuits.com/technical-articles/introduction-to-capacitive-touch-sensing)
+
+[Further Readings B](https://www.clippercontrols.com/pages/Dielectric-Constant-Values.html)
+
 
 **I offer no support for this device, it has become a leisurely project.**
