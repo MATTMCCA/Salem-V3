@@ -52,5 +52,6 @@ In full transparency, both the hardware and firmware are included in this repo. 
 **I offer no support for this device, it has become a leisurely project.**
 
 
+---
 
 This project has been added to the hackaday [halloween hackfest](https://hackaday.com/2021/08/10/new-contest-halloween-hackfest/)
