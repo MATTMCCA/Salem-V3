@@ -55,3 +55,7 @@ In full transparency, both the hardware and firmware are included in this repo. 
 ---
 
 This project has been added to the hackaday [halloween hackfest](https://hackaday.com/2021/08/10/new-contest-halloween-hackfest/)
+
+
+
+### Borrowed works maintain original license.
