@@ -5,6 +5,9 @@
 
 Third Revision of Salem, Capacitive Proximity Sensor.
 
+
+https://youtu.be/Kz70OKQegTU
+
 ---
 
 ### Salem was originally designed as a REM Pod competitor. A conscience and lack of follow-though drove me to release the project, for the betterment of *Parapsychology Research*.
